@@ -8,5 +8,5 @@ This is a repository to store my attempt at the Scientific Computing coursework 
 
 This project contains two documents:
 
-- `Marksheet_230793835.pdf` A PDF document that contains the marks awarded for the coursework on the trinary star system.
+- `Marksheet_230793835.pdf` A PDF document that contains the marks awarded for the coursework on the trinary star system. I attained 98% for this element of the module. 
 - `Computing Coursework 230793835.ipynb`: A Jupyter Notebook with my answers to the coursework. In this document, you will find markdown text around each block of code which gives context to the answers given.
